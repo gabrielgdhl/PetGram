@@ -1,7 +1,22 @@
-## PetGram - 
+## *PetGram* - :dog::cat::bird:
 
-Projeto desenvolvido no bootcamp da DIO, sob tutela da especialista Gabriel Pinheiro.
+<p align="center">
+    <img width="470" src="/img/assets/monitor.png">
+</p>
 
-Vou fazer uma página inicial para uma rede social para donos de Pets, utilizando HTML5 e CSS3.
+<p align="center">
+    <img width="470" src="/img/assets/tablets.png">
+</p>
 
-Neste momento vou implementar somente a página inicial, onde vai ter um formulário de login, e algumas imagens ilustrativas a página vai ser responsiva.
+
+
+Projeto desenvolvido no bootcamp da DIO, sob tutela da especialista **Gabriela Pinheiro**, a ideia do projeto é reproduzir a tela inicial do Instagram.
+
+Vou modificar o projeto e fazer uma página inicial para uma rede social para donos de Pets, utilizando HTML5 e CSS3.
+
+Neste momento vou implementar somente a página inicial, onde vai ter um formulário de login, e algumas imagens ilustrativas.
+
+
+
+
+
