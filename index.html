@@ -2,18 +2,31 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <link rel="Stylesheet" href="./style.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0'">
+        <link rel="stylesheet" href="./style.css">
         <title>Petgram</title>
     </head>
     <body>
-        <div class="container">
+        <div class="container-wrapper">
             <div class="img-pet">
                 <img src="img/pets1.png" alt="foto de pets" width="500px">
             </div>
 
             <div class="formulario-container">
-                <a href="#"><img src="img/petgram-logo.png" alt="logo da petgram"></a>
+                
+                <img src="img/petgram-logo.png" alt="logo da petgram" class="log-foto">
+                <img src="./img/profile-icon.png" alt="foto do perfil" class="profile-foto">
+     
+                <div>
+                    <label for="id">User</label><br>
+                    <input type="text" name="ID" id="id"><br>
+                    <label for="password">Password</label><br>
+                    <input type="password" name="Password" id="password"><br>
+                    <input type="button" value="Entrar" class="button-sign"><br>
+                    <a href="#">Esqueceu a senha?</a><br>
+                    <a href="#">Create account</a>
+                </div>              
             </div>
-        </div>
+        </div> 
     </body>
 </html>
