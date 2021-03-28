@@ -3,3 +3,29 @@
     margin: 0;
     font-family: sans-serif;
 }
+
+body{
+    max-width: 940px;
+    width: 95vmax;
+    margin: auto;
+}
+
+.container{
+    margin-top: 20px;
+    border: 2px solid #0000;
+    display: flex;
+    align-items: center;
+    background: blueviolet;
+
+}
+.img-pet{
+    border: 1px solid black;
+}
+
+.img-pet img{
+    width: 400px;
+}
+
+.formulario-container{
+    border: 1px solid black;
+}
